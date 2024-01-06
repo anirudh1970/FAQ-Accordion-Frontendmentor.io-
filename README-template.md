@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/faqaccoridon-9jc4ebtyJo))
-- Live Site URL: [Live Site URL]([https://your-live-site-url.com](https://anirudh1970.github.io/FAQ-Accordion-Frontendmentor.io-/))
+- Solution URL: https://www.frontendmentor.io/solutions/faqaccoridon-9jc4ebtyJo
+- Live Site URL: https://anirudh1970.github.io/FAQ-Accordion-Frontendmentor.io-/
 
 ## My process
 
